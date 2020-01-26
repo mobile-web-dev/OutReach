@@ -1,7 +1,5 @@
 ## MOBILE WEB -DELHI NCR
-## TECHNOLOGIES
-> #### The quarterly results look great!
->
+>## TECHNOLOGIES
 > -React
 > -flutter
 > -GraphQL
