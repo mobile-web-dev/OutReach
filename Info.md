@@ -1,3 +1,10 @@
 ## MOBILE WEB -DELHI NCR
 ## TECHNOLOGIES
-### React
+> #### The quarterly results look great!
+>
+> -React
+> -flutter
+> -GraphQL
+> -PWA
+> -AMP
+> -Firebase
