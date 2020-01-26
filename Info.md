@@ -6,3 +6,7 @@
 > - PWA
 > - AMP
 > - Firebase
+> - Alexa
+> - Angular
+> - VoiceFlow
+> - Google Assistant
