@@ -28,5 +28,5 @@ Core People -
 11. F & B - !aman ( Divyansh )
 12. Print - Divyansh
 13. A/V - Siddhant, Shalini
-14. Logistic Leads( Print , Swags ) - Divyansh, !manvir( Divyansh), !harshil( Harsh)
+14. Logistic Leads( Print , Swags ) - !piush (Divyansh ) , Divyansh, !manvir( Divyansh), !harshil( Harsh)
 15. Content Leads - Monika , Shalini 
