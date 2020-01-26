@@ -12,3 +12,22 @@ https://mobile-web.dev
 7. papercall.io -
 8. Slack - 
 9.
+
+
+Core People - 
+1. Social Media manager - 
+2. Design -
+3. Web handling -
+4. Speaker Relations -
+5. Venue Management -
+6. Sponsorship management -
+7. Student Relations -
+8. Company Relations -
+9. Communications Manager -
+10. Registrations -
+11. Swags - 
+12. F & B -
+13. Print -
+14. A/V -
+15. Logistic Leads -
+16. Contet Leads -
