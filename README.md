@@ -15,19 +15,18 @@ https://mobile-web.dev
 
 
 Core People - 
-1. Social Media manager - 
-2. Design -
-3. Web handling -
-4. Speaker Relations -
-5. Venue Management -
-6. Sponsorship management -
-7. Student Relations -
-8. Company Relations -
-9. Communications Manager -
-10. Registrations -
-11. Swags - 
-12. F & B -
-13. Print -
-14. A/V -
-15. Logistic Leads -
-16. Contet Leads -
+1. Social Media manager - MONIKA RAJPUT
+2. Design - sumit
+3. Web handling - Siddhant
+4. Speaker Relations - Harsh
+5. Venue Management - aman sharma   
+6. Sponsorship management - Harsh
+7. Student Relations - Aakanksha 
+8. Company Relations - Aman Sharma
+9. Communications Manager - Shalini
+10. Registrations - Ashutosh
+11. F & B - !aman ( Divyansh )
+12. Print - Divyansh
+13. A/V - Siddhant, Shalini
+14. Logistic Leads( Print , Swags ) - Divyansh, !manvir( Divyansh), !harshil( Harsh)
+15. Content Leads - Monika , Shalini 
