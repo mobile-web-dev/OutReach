@@ -1,4 +1,6 @@
 ## MOBILE WEB -DELHI NCR
+Hey good day :) 
+Thank you for visiting
 
 ## why MobileWeb.dev
 
