@@ -16,14 +16,14 @@ Thank you for visiting
 - Swags
 
 ## Technologies We Focused
-> - React
-> - flutter
-> - GraphQL
-> - PWA
-> - AMP
-> - Firebase
-> - Alexa
-> - Angular
-> - VoiceFlow
-> - Google Assistant
-> - more to add :)
+- React
+- flutter
+- GraphQL
+- PWA
+- AMP
+- Firebase
+- Alexa
+- Angular
+- VoiceFlow
+- Google Assistant
+- more to add :)
