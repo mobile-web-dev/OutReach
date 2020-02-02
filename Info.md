@@ -8,12 +8,12 @@ Thank you for visiting
 
 # Expected Outcomes
 
-..*We will be organising mega events.
-### Hackathon
-### Open source projects
-### Monthly Meetups
-### Insightful Seminars & Webinars
-### Swags
+- We will be organising mega events.
+- Hackathon
+- Open source projects
+- Monthly Meetups
+- Insightful Seminars & Webinars
+- Swags
 
 ## Technologies We Focused
 > - React
