@@ -8,7 +8,7 @@ Thank you for visiting
 
 # Expected Outcomes
 
-. .* We will be organising mega events.
+..*We will be organising mega events.
 ### Hackathon
 ### Open source projects
 ### Monthly Meetups
