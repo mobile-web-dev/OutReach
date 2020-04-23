@@ -3,15 +3,21 @@ Various Links
 
 https://mobile-web.dev
 
-1. Meetup - https://www.meetup.com/mobile-web-delhi/
-2. Linkedin - https://www.linkedin.com/company/mobile-web-dev-delhi-ncr/
-3. Facebook - 
-4. Instagram - 
-5. Commmudle - 
-6. Twitter - 
-7. papercall.io -
-8. Slack - 
-9.
+### Welcome to mobile-web.dev 
+
+While the website is still under construction you can find our social presence on the following mentioned links 
+<br><br>
+[Meetup ]( https://www.meetup.com/mobile-web-delhi/)<br>
+[Linkedin]( https://www.linkedin.com/company/mobile-web-dev-delhi-ncr/)<br>
+[Facebook]( https://www.facebook.com/pg/MobWeb.dev/)<br>
+[Instagram](https://www.instagram.com/mobile_web.dev/)<br>
+[YouTube](https://www.youtube.com/channel/UCSQKDMqwOp43dEqDt2hBOIQ)<br>
+[Medium](https://medium.com/mobile-web-dev)<br>
+<br>
+Join our [slack](https://join.slack.com/t/mobile-webdev/shared_invite/enQtOTI0MjU3MjgyODA3LTU4NDY1OGE3OTQ3ZWNhNjU5NTFlYzQ5Yjc1MDRjMjMyMDYyZDIyNTkyZDFmYjQyODBlZjYwMWRmYzA5ZTQ1NmE) to participate in the Community
+<br>
+And Don't forget to contribute<br>
+
 
 
 Core People - 
